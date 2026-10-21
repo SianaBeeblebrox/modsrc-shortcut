@@ -1,6 +1,5 @@
 # Modsrc.dev Shortcut <br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SianaBeeblebrox/modsrc-shortcut) ![GitHub](https://img.shields.io/github/license/SianaBeeblebrox/modsrc-shortcut?style=for-the-badge) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SianaBeeblebrox/modsrc-shortcut?style=for-the-badge)
 
-
 Tired of closed source slop on Modrinth? Want to shame someone's code? Get a direct [modsrc.dev](https://modsrc.dev/) link to the latest version. Available as a bookmarklet or userscript!
 
 # Bookmarklet Usage
